@@ -1,4 +1,4 @@
-# Password-Generated
+# Password-Generator
 # 🔐 Random Password Generator & Strengthener
 
 A password security web application built with **Python and Streamlit** that helps users generate random passwords and create modified variations of memorable words.
